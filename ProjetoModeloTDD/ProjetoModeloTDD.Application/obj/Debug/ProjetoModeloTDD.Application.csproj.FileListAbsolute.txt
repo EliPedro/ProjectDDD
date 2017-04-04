@@ -1,5 +1,0 @@
-C:\Users\elipe\Desktop\ASP.NET\ProjectDDD\ProjetoModeloTDD\ProjetoModeloTDD.Application\bin\Debug\ProjetoModeloTDD.Application.dll
-C:\Users\elipe\Desktop\ASP.NET\ProjectDDD\ProjetoModeloTDD\ProjetoModeloTDD.Application\bin\Debug\ProjetoModeloTDD.Application.pdb
-C:\Users\elipe\Desktop\ASP.NET\ProjectDDD\ProjetoModeloTDD\ProjetoModeloTDD.Application\obj\Debug\ProjetoModeloTDD.Application.csprojResolveAssemblyReference.cache
-C:\Users\elipe\Desktop\ASP.NET\ProjectDDD\ProjetoModeloTDD\ProjetoModeloTDD.Application\obj\Debug\ProjetoModeloTDD.Application.dll
-C:\Users\elipe\Desktop\ASP.NET\ProjectDDD\ProjetoModeloTDD\ProjetoModeloTDD.Application\obj\Debug\ProjetoModeloTDD.Application.pdb

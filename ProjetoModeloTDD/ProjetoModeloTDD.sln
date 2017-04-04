@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoModeloTDD.Applicatio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoModeloTDD.Mvc", "ProjetoModeloTDD.Mvc\ProjetoModeloTDD.Mvc.csproj", "{8D56EEC7-8316-4EED-9511-C5404F0AEA42}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoModeloTDD.CrossCutting", "ProjetoModeloTDD.CrossCutting\ProjetoModeloTDD.CrossCutting.csproj", "{18C9CA3A-4E7B-485D-8FAB-B7C10D4DFE2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,10 @@ Global
 		{8D56EEC7-8316-4EED-9511-C5404F0AEA42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D56EEC7-8316-4EED-9511-C5404F0AEA42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D56EEC7-8316-4EED-9511-C5404F0AEA42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18C9CA3A-4E7B-485D-8FAB-B7C10D4DFE2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18C9CA3A-4E7B-485D-8FAB-B7C10D4DFE2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18C9CA3A-4E7B-485D-8FAB-B7C10D4DFE2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18C9CA3A-4E7B-485D-8FAB-B7C10D4DFE2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -60,5 +66,6 @@ Global
 		{1FA07E02-DAE8-4AC3-86BE-948C68FDFFBC} = {FC0CA988-C1FD-4DBD-94CF-ADA47827E77C}
 		{C9EE8B44-26AC-4939-8C8A-FECD792BE7EB} = {768020A6-BBBC-4CFE-84B9-E86479CE630F}
 		{8D56EEC7-8316-4EED-9511-C5404F0AEA42} = {7B39D916-0C1E-452F-8C7E-3C69B8B05DD9}
+		{18C9CA3A-4E7B-485D-8FAB-B7C10D4DFE2D} = {2F3B323D-4AC8-4CE3-91E8-6386C60D4A4A}
 	EndGlobalSection
 EndGlobal

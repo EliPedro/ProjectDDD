@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+﻿using ProjetoModeloTDD.Mvc.AutoMapper;
+using ProjetoModeloTDD.Mvc.Ninject;
 using System.Web.Mvc;
 using System.Web.Routing;
 
@@ -13,6 +11,9 @@ namespace ProjetoModeloTDD.Mvc
         {
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
+            AutoMapperConfig.RegisterMappings();
+            //ControllerBuilder.Current.SetControllerFactory(new NinjectControllerFactory());
+
         }
     }
 }
